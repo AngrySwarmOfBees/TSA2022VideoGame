@@ -1,0 +1,1177 @@
+﻿Log file open, 03/17/22 21:48:55
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: stupidtsagame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.336884
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 3 3200G with Radeon Vega Graphics    , GPU: NVIDIA GeForce GT 710
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.18-02.48.56:320][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.18-02.48.56:320][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.18-02.48.56:320][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Engine.ini]
+[2022.03.18-02.48.56:320][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.18-02.48.56:320][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Engine.ini]
+[2022.03.18-02.48.56:320][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Engine.ini]
+[2022.03.18-02.48.56:320][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.18-02.48.56:320][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.18-02.48.56:320][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.18-02.48.56:320][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.18-02.48.56:320][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Engine.ini]
+[2022.03.18-02.48.56:321][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.18-02.48.56:321][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Engine.ini]
+[2022.03.18-02.48.56:321][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Engine.ini]
+[2022.03.18-02.48.56:346][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-02.48.56:346][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.18-02.48.56:347][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.18-02.48.56:348][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.18-02.48.56:349][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.18-02.48.56:350][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.18-02.48.56:350][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-02.48.56:350][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.18-02.48.56:350][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.18-02.48.56:350][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-02.48.56:350][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.18-02.48.56:350][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.18-02.48.56:350][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.18-02.48.56:350][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.18-02.48.56:350][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.18-02.48.56:350][  0]LogHAL: Display: Platform has ~ 62 GB [66496864256 / 68719476736 / 62], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.18-02.48.56:350][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.18-02.48.56:350][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-02.48.56:350][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.18-02.48.56:350][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.18-02.48.56:350][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-02.48.56:350][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.18-02.48.56:350][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-02.48.56:350][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.18-02.48.56:350][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.18-02.48.56:350][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.18-02.48.56:350][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.18-02.48.56:351][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.18-02.48.56:352][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.18-02.48.56:352][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.18-02.48.56:352][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.18-02.48.56:352][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.18-02.48.56:352][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.18-02.48.56:352][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.18-02.48.56:352][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.18-02.48.56:352][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.18-02.48.56:352][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.18-02.48.56:352][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.18-02.48.56:352][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.18-02.48.56:352][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.18-02.48.56:352][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.18-02.48.56:352][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.18-02.48.56:352][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.18-02.48.56:352][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.18-02.48.56:352][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.18-02.48.56:352][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-02.48.56:352][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.18-02.48.56:352][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.18-02.48.56:353][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.18-02.48.56:354][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.18-02.48.56:354][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.18-02.48.56:354][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.18-02.48.56:354][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-02.48.56:354][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.18-02.48.56:354][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.18-02.48.56:354][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-02.48.56:354][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.18-02.48.56:354][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.18-02.48.56:354][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.18-02.48.56:354][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.18-02.48.56:355][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.18-02.48.56:355][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.18-02.48.56:355][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.18-02.48.56:355][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Engine.ini]
+[2022.03.18-02.48.56:355][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Config/Windows/Editor.ini]
+[2022.03.18-02.48.56:355][  0]LogInit: Computer: TEAMC-GAMING
+[2022.03.18-02.48.56:355][  0]LogInit: User: 4team
+[2022.03.18-02.48.56:355][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.03.18-02.48.56:355][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.18-02.48.56:355][  0]LogMemory: Memory total: Physical=61.9GB (62GB approx)
+[2022.03.18-02.48.56:355][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.18-02.48.56:355][  0]LogMemory: Process Physical Memory: 134.44 MB used, 134.45 MB peak
+[2022.03.18-02.48.56:355][  0]LogMemory: Process Virtual Memory: 117.40 MB used, 117.40 MB peak
+[2022.03.18-02.48.56:355][  0]LogMemory: Physical Memory: 8992.33 MB used,  54424.02 MB free, 63416.35 MB total
+[2022.03.18-02.48.56:355][  0]LogMemory: Virtual Memory: 134155976.00 MB used,  61754.77 MB free, 134217728.00 MB total
+[2022.03.18-02.48.56:367][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.18-02.48.56:465][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.18-02.48.56:467][  0]LogInit: Using OS detected language (en-US).
+[2022.03.18-02.48.56:467][  0]LogInit: Using OS detected locale (en-US).
+[2022.03.18-02.48.56:478][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.03.18-02.48.56:940][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.18-02.48.56:959][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.18-02.48.56:992][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.18-02.48.56:992][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.18-02.48.57:423][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.18-02.48.57:423][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.18-02.48.57:423][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.03.18-02.48.57:423][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.18-02.48.57:590][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 710' (Feature Level 11_0)
+[2022.03.18-02.48.57:590][  0]LogD3D11RHI:       2007/0/31708 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.03.18-02.48.57:789][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Vega 8 Graphics' (Feature Level 11_0)
+[2022.03.18-02.48.57:789][  0]LogD3D11RHI:       2033/0/31708 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2022.03.18-02.48.57:794][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.18-02.48.57:794][  0]LogD3D11RHI:       0/0/31708 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.18-02.48.57:794][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.03.18-02.48.57:806][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.18-02.48.57:806][  0]LogD3D11RHI:     GPU DeviceId: 0x128b (for the marketing name, search the web for "GPU Device Id")
+[2022.03.18-02.48.57:806][  0]LogWindows: EnumDisplayDevices:
+[2022.03.18-02.48.57:807][  0]LogWindows:    0. 'NVIDIA GeForce GT 710' (P:1 D:1)
+[2022.03.18-02.48.57:807][  0]LogWindows:    1. 'NVIDIA GeForce GT 710' (P:0 D:1)
+[2022.03.18-02.48.57:808][  0]LogWindows:    2. 'AMD 15D8:C9' (P:0 D:0)
+[2022.03.18-02.48.57:809][  0]LogWindows:    3. 'AMD 15D8:C9' (P:0 D:0)
+[2022.03.18-02.48.57:809][  0]LogWindows:    4. 'AMD 15D8:C9' (P:0 D:0)
+[2022.03.18-02.48.57:810][  0]LogWindows:    5. 'AMD 15D8:C9' (P:0 D:0)
+[2022.03.18-02.48.57:811][  0]LogWindows:    6. 'AMD 15D8:C9' (P:0 D:0)
+[2022.03.18-02.48.57:811][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2022.03.18-02.48.57:812][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 710
+[2022.03.18-02.48.57:812][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2022.03.18-02.48.57:812][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2022.03.18-02.48.57:812][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2022.03.18-02.48.57:945][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2022.03.18-02.48.57:946][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.18-02.48.57:986][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.03.18-02.48.57:989][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.03.18-02.48.58:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.18-02.48.58:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.18-02.48.58:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.18-02.48.58:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.18-02.48.58:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.18-02.48.58:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.18-02.48.58:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.18-02.48.58:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.18-02.48.58:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.18-02.48.58:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.18-02.48.58:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.18-02.48.58:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.18-02.48.58:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.18-02.48.58:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.18-02.48.58:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.03.18-02.48.58:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.18-02.48.58:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.18-02.48.58:904][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.03.18-02.48.58:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.03.18-02.48.58:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.03.18-02.48.59:016][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.18-02.48.59:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.18-02.48.59:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.03.18-02.48.59:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.03.18-02.48.59:085][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.03.18-02.48.59:109][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.03.18-02.48.59:150][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.18-02.48.59:150][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.18-02.48.59:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.18-02.48.59:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.18-02.48.59:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.18-02.48.59:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.18-02.48.59:244][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.18-02.48.59:263][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.18-02.48.59:422][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.18-02.48.59:423][  0]LogShaderCompilers: Guid format shader working directory is -60 characters bigger than the processId version (../../../../../../Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Intermediate/Shaders/WorkingDirectory/10260/).
+[2022.03.18-02.48.59:423][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/4team/AppData/Local/Temp/UnrealShaderWorkingDir/966D40B5464701D0F27130B416BB763E/'.
+[2022.03.18-02.48.59:423][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.18-02.48.59:423][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.18-02.49.01:334][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.18-02.49.01:395][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/4team/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.03.18-02.49.01:395][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/4team/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.03.18-02.49.01:395][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.18-02.49.01:395][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.18-02.49.01:395][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.18-02.49.01:395][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.18-02.49.01:416][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.18-02.49.01:416][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.18-02.49.01:416][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.18-02.49.01:428][  0]LogDerivedDataCache: Speed tests for C:/Users/4team/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.03.18-02.49.01:428][  0]LogDerivedDataCache: Display: Performance to C:/Users/4team/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=695.04MBs, RandomWriteSpeed=92.72MBs. Assigned SpeedClass 'Local'
+[2022.03.18-02.49.01:429][  0]LogDerivedDataCache: Using Local data cache path C:/Users/4team/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.18-02.49.01:429][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.18-02.49.01:429][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.18-02.49.01:548][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.18-02.49.01:549][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.18-02.49.01:609][  0]LogAssetRegistry: FAssetRegistry took 0.0044 seconds to start up
+[2022.03.18-02.49.02:061][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.18-02.49.02:061][  0]LogInit: Active device profile: [000001F840D42100][000001F841CC97C0 49] Windows
+[2022.03.18-02.49.02:061][  0]LogInit: Profiles: [000001F840D42100][000001F841CC97C0 49] Windows, [000001F840CC9900][000001F841CCD900 49] WindowsNoEditor, [000001F840D42D00][000001F841CE9A40 49] WindowsServer, [000001F840CCA200][000001F841CF1BC0 49] WindowsClient, [000001F840D40F00][000001F841CF5D40 49] IOS, [000001F840CCA600][000001F841D18200 49] iPadAir, [000001F840D41E00][000001F841D1C380 49] iPadAir2, [000001F840C5E100][000001F841D24640 49] IPadPro, [000001F840C5E200][000001F841D20680 49] iPadAir3, [000001F840CC9800][000001F841D28800 49] iPadAir4, [000001F840C5E500][000001F841D2C980 49] iPadMini2, [000001F840CC8200][000001F841D30B00 49] iPadMini3, [000001F840C5D100][000001F841D34C80 49] iPadMini4, [000001F840CC9F00][000001F841D38E00 49] iPadMini5, [000001F840C6DA00][000001F841D410C0 49] iPhone6, [000001F840C6DB00][000001F841D3D100 49] iPodTouch6, [000001F840C5FE00][000001F841D493C0 49] iPhone7, [000001F840C5FD00][000001F841D45400 49] iPodTouch7, [000001F840C6F100][000001F841D4D580 49] iPhone5S, [000001F840C5EB00][000001F841D51700 49] iPhone6Plus, [000001F840C6D400][000001F841CED840 49] iPhone6S, [000001F840C5FB00][000001F841D55980 49] iPhone6SPlus, [000001F840C6F000][000001F841D59AC0 49] iPhone7Plus, [000001F840C5E800][000001F841D61C40 49] iPhoneSE, [000001F840C6DF00][000001F841D64100 49] iPhone8, [000001F840C5DD00][000001F841D68280 49] iPhone8Plus, [000001F840C6FA00][000001F841D6C400 49] iPhoneX, [000001F840C5D000][000001F841D70580 49] iPhoneXS, [000001F840C6C400][000001F841D74700 49] iPhoneXSMax, [000001F840C5D900][000001F841D78880 49] iPhoneXR, [000001F840C6D100][000001F841D7CA00 49] iPhone11, [000001F840C5F000][000001F841D80B80 49] iPhone11Pro, [000001F840C6E500][000001F841D84D00 49] iPhone11ProMax, [000001F840C5D500][000001F841D88E80 49] iPhoneSE2, [000001F840C6E700][000001F841D8D000 49] iPhone12Mini, [000001F840C5EC00][000001F841D91180 49] iPhone12, [000001F840C6FE00][000001F841D95300 49] iPhone12Pro, [000001F840C5E600][000001F841D99480 49] iPhone12ProMax, [000001F840C6CD00][000001F841D9D600 49] iPadPro105, [000001F840C5C400][000001F841DA1780 49] iPadPro129, [000001F840C6D300][000001F841D5D8C0 49] iPadPro97, [000001F840D40800][000001F841DA5A00 49] iPadPro2_129, [000001F840C6C900][000001F841DA9B40 49] iPad5, [000001F840D40D00][000001F841DB1CC0 49] iPad6, [000001F840C6E400][000001F841DB4180 49] iPad7, [000001F840D41100][000001F841DB8300 49] iPad8, [000001F840C6F400][000001F841DBC480 49] iPadPro11, [000001F840D41700][000001F841DC0600 49] iPadPro2_11, [000001F840C6C800][000001F841DC4780 49] iPadPro3_129, [000001F840D42800][000001F841DC8900 49] iPadPro4_129, [000001F840C6F800][000001F841DCCA80 49] AppleTV, [000001F840D41D00][000001F841DD0C00 49] AppleTV4K, [000001F840C6E800][000001F841DD4D80 49] TVOS, [000001F840D42700][000001F841DD8F00 49] Mac, [000001F840C6C200][000001F841DDD080 49] MacClient, [000001F840D41800][000001F841DE1200 49] MacNoEditor, [000001F840C6D600][000001F841DE5380 49] MacServer, [000001F840D41400][000001F841DE9500 49] Linux, [000001F840C6C500][000001F841DED680 49] LinuxAArch64, [000001F840D41300][000001F841DF1800 49] LinuxNoEditor, [000001F840C6E300][000001F841DAD940 49] LinuxAArch64NoEditor, [000001F840D40B00][000001F841DF5A80 49] LinuxClient, [000001F840C6F200][000001F841DF9BC0 49] LinuxAArch64Client, [000001F840D41A00][000001F841DFDD00 49] LinuxServer, [000001F840C6C300][000001F841E041C0 49] LinuxAArch64Server, [000001F840D43000][000001F841E08340 49] Android, [000001F840C6ED00][000001F841E0C4C0 49] Android_Low, [000001F840D40400][000001F841E10640 49] Android_Mid, [000001F840C6DD00][000001F841E147C0 49] Android_High, [000001F840D42300][000001F841E18940 49] Android_Default, [000001F840C6D800][000001F841E1CAC0 49] Android_Adreno4xx, [000001F840D42600][000001F841E20C40 49] Android_Adreno5xx_Low, [000001F840C6C600][000001F841E24DC0 49] Android_Adreno5xx, [000001F840D42A00][000001F841E28F40 49] Android_Adreno6xx, [000001F840C6F700][000001F841E2D0C0 49] Android_Adreno6xx_Vulkan, [000001F840D40200][000001F841E31240 49] Android_Mali_T6xx, [000001F840C6FF00][000001F841E353C0 49] Android_Mali_T7xx, [000001F840D41F00][000001F841E39540 49] Android_Mali_T8xx, [000001F840C5FC00][000001F841E3D6C0 49] Android_Mali_G71, [000001F840CC9600][000001F841E41840 49] Android_Mali_G72, [000001F840C5CB00][000001F841E01980 49] Android_Mali_G72_Vulkan, [000001F840CCBD00][000001F841E45AC0 49] Android_Mali_G76, [000001F840C5E700][000001F841E49C00 49] Android_Mali_G76_Vulkan, [000001F840CC8A00][000001F841E4DD40 49] Android_Mali_G77, [000001F840C5E900][000001F841E54200 49] Android_Mali_G77_Vulkan, [000001F840CC9D00][000001F841E58380 49] Android_Vulkan_SM5, [000001F840C5C800][000001F841E5C500 49] Android_PowerVR_G6xxx, [000001F840CC8500][000001F841E60680 49] Android_PowerVR_GT7xxx, [000001F840C5CC00][000001F841E64800 49] Android_PowerVR_GE8xxx, [000001F840CCAB00][000001F841E68980 49] Android_PowerVR_GM9xxx, [000001F840C5D700][000001F841E6CB00 49] Android_PowerVR_GM9xxx_Vulkan, [000001F840CC8700][000001F841E70C80 49] Android_TegraK1, [000001F840C5DE00][000001F841E74E00 49] Android_Unknown_Vulkan, [000001F840CCAC00][000001F841E78F80 49] Lumin, [000001F840C5C700][000001F841E7D100 49] Lumin_Desktop, [000001F840CCB800][000001F841E81280 49] HoloLens, 
+[2022.03.18-02.49.02:257][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.18-02.49.02:257][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.18-02.49.02:257][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.18-02.49.02:257][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.18-02.49.02:257][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.18-02.49.02:296][  0]LogNetVersion: stupidtsagame 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3617970848)
+[2022.03.18-02.49.03:244][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.18-02.49.03:339][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.093559 seconds
+[2022.03.18-02.49.03:351][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.03.18-02.49.03:351][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.03.18-02.49.03:351][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.18-02.49.04:310][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.18-02.49.04:320][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.18-02.49.04:463][  0]LogLinker: Warning: Failed to load '/Game/TwinStickBP/TwinStickOverview': Can't find file.
+[2022.03.18-02.49.04:463][  0]LogLinker: Warning: Failed to load '/Game/TwinStickBP/TwinStickOverview': Can't find file.
+[2022.03.18-02.49.04:463][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TwinStickBP/TwinStickOverview.TwinStickOverview_C'
+[2022.03.18-02.49.04:525][  0]SourceControl: Source control is disabled
+[2022.03.18-02.49.05:455][  0]LogUProjectInfo: Found projects:
+[2022.03.18-02.49.05:991][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.18-02.49.06:040][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.18-02.49.06:041][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.18-02.49.06:165][  0]LogCollectionManager: Loaded 0 collections in 0.004885 seconds
+[2022.03.18-02.49.06:224][  0]LogFileCache: Scanning file cache for directory 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Saved/Collections/' took 0.00s
+[2022.03.18-02.49.06:224][  0]LogFileCache: Scanning file cache for directory 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Content/Developers/4team/Collections/' took 0.00s
+[2022.03.18-02.49.06:224][  0]LogFileCache: Scanning file cache for directory 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Content/Collections/' took 0.00s
+[2022.03.18-02.49.06:224][  0]LogOcInput: OculusInput pre-init called
+[2022.03.18-02.49.06:255][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.03.18-02.49.06:255][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.03.18-02.49.06:379][  0]LogEngine: Initializing Engine...
+[2022.03.18-02.49.06:382][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.18-02.49.06:382][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.18-02.49.06:385][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.18-02.49.06:630][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.18-02.49.06:648][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.18-02.49.06:662][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.18-02.49.06:671][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.18-02.49.06:671][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.18-02.49.06:671][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.18-02.49.06:671][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.18-02.49.06:671][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.18-02.49.06:671][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.18-02.49.06:671][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.18-02.49.06:671][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.18-02.49.06:671][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.18-02.49.06:671][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.18-02.49.06:672][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.18-02.49.06:672][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.18-02.49.06:714][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.18-02.49.06:714][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.18-02.49.06:825][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.03.18-02.49.06:829][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.18-02.49.06:833][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.18-02.49.06:833][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.18-02.49.06:836][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.18-02.49.06:836][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.18-02.49.06:836][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.18-02.49.06:838][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.18-02.49.06:838][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.18-02.49.06:838][  0]LogInit: FAudioDevice initialized.
+[2022.03.18-02.49.06:838][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.18-02.49.06:839][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.18-02.49.07:038][  0]LogDerivedDataCache: Saved boot cache 0.20s 77MB C:/Users/4team/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.03.18-02.49.07:043][  0]LogInit: Texture streaming: Enabled
+[2022.03.18-02.49.07:073][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.03.18-02.49.07:082][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.18-02.49.07:082][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.18-02.49.07:087][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.18-02.49.07:155][  0]LogInit: Transaction tracking system initialized
+[2022.03.18-02.49.07:210][  0]BlueprintLog: New page: Editor Load
+[2022.03.18-02.49.07:383][  0]LocalizationService: Localization service is disabled
+[2022.03.18-02.49.07:442][  0]TimingProfiler: Initialize
+[2022.03.18-02.49.07:442][  0]TimingProfiler: OnSessionChanged
+[2022.03.18-02.49.07:442][  0]LoadingProfiler: Initialize
+[2022.03.18-02.49.07:442][  0]LoadingProfiler: OnSessionChanged
+[2022.03.18-02.49.07:442][  0]NetworkingProfiler: Initialize
+[2022.03.18-02.49.07:442][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.18-02.49.07:442][  0]MemoryProfiler: Initialize
+[2022.03.18-02.49.07:443][  0]MemoryProfiler: OnSessionChanged
+[2022.03.18-02.49.07:793][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.03.18-02.49.07:793][  0]LogCook: Display: Mobile HDR setting 1
+[2022.03.18-02.49.08:163][  0]LogFileCache: Scanning file cache for directory 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame/stupidtsagame/Content/' took 0.02s
+[2022.03.18-02.49.08:552][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.18-02.49.08:557][  0]LogUnrealEdMisc: Loading editor; pre map load, took 14.106
+[2022.03.18-02.49.08:558][  0]LightingResults: New page: Lighting Build
+[2022.03.18-02.49.08:559][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.18-02.49.08:559][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.18-02.49.08:559][  0]MapCheck: New page: Map Check
+[2022.03.18-02.49.08:559][  0]LightingResults: New page: Lighting Build
+[2022.03.18-02.49.08:570][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.03.18-02.49.08:720][  0]LogBlueprint: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\ThirdPersonBP\Blueprints\ExhibitionBPs\ExhibitManager.uasset: [Compiler] Could not find a variable named "FinishedExhibits" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Set FinishedExhibits
+[2022.03.18-02.49.08:724][  0]LogBlueprint: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\ThirdPersonBP\Blueprints\ExhibitionBPs\GameUI.uasset: [Compiler] Could not find a variable named "FinishedExhibits" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get FinishedExhibits
+[2022.03.18-02.49.08:740][  0]LogBlueprint: Error: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\ThirdPersonBP\Blueprints\ExhibitionBPs\ExhibitManager.uasset: [Compiler] The property associated with  Finished Exhibits  could not be found in '/Game/ThirdPersonBP/Blueprints/ExhibitionBPs/ExhibitManager.ExhibitManager_C'
+[2022.03.18-02.49.08:741][  0]LogBlueprint: Error: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\ThirdPersonBP\Blueprints\ExhibitionBPs\GameUI.uasset: [Compiler] The property associated with  Finished Exhibits  could not be found in '/Game/ThirdPersonBP/Blueprints/ExhibitionBPs/GameUI.GameUI_C'
+[2022.03.18-02.49.09:180][  0]LogMaterial: Display: Missing cached shader map for material M_Base_Fabric, compiling. 
+[2022.03.18-02.49.09:183][  0]LogMaterial: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Materials\M_Base_Fabric.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.18-02.49.09:183][  0]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.03.18-02.49.09:524][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.03.18-02.49.09:526][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.18-02.49.09:552][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.18-02.49.09:576][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.03.18-02.49.09:577][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.18-02.49.09:577][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.446ms to complete.
+[2022.03.18-02.49.09:577][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.020
+[2022.03.18-02.49.09:581][  0]LogUnrealEdMisc: Total Editor Startup Time, took 15.130
+[2022.03.18-02.49.09:778][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.18-02.49.09:794][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.18-02.49.09:811][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.18-02.49.09:827][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.18-02.49.10:037][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.18-02.49.10:041][  0]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.18-02.49.10:178][  0]LogRenderer: Reallocating scene render targets to support 1208x924 Format 10 NumSamples 1 (Frame:1).
+[2022.03.18-02.49.11:548][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.03.18-02.49.11:548][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.03.18-02.49.11:548][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.03.18-02.49.11:548][  0]LogLoad: (Engine Initialization) Total time: 17.10 seconds
+[2022.03.18-02.49.11:548][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.18-02.49.11:548][  0]LogInit: First time updating LLM stats...
+[2022.03.18-02.49.11:743][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.18-02.49.11:764][  1]LogAssetRegistry: Asset discovery search completed in 10.1568 seconds
+[2022.03.18-02.49.11:766][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.03.18-02.49.23:195][196]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0270 seconds. Added 3601 classes and 859 folders.
+[2022.03.18-02.49.23:202][196]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.03.18-02.49.23:206][196]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.18-02.49.23:206][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:206][196]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.18-02.49.23:206][196]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.03.18-02.49.23:207][196]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.18-02.49.23:207][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:207][196]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.18-02.49.23:208][196]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.03.18-02.49.23:209][196]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.03.18-02.49.23:209][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:209][196]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.03.18-02.49.23:209][196]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.03.18-02.49.23:211][196]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.18-02.49.23:211][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:211][196]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.18-02.49.23:211][196]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.03.18-02.49.23:212][196]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.18-02.49.23:212][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:212][196]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.18-02.49.23:212][196]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.03.18-02.49.23:214][196]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.18-02.49.23:214][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:214][196]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.18-02.49.23:214][196]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.03.18-02.49.23:215][196]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.18-02.49.23:215][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:215][196]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.18-02.49.23:216][196]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.03.18-02.49.23:217][196]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.18-02.49.23:217][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:217][196]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.18-02.49.23:217][196]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.03.18-02.49.23:218][196]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.18-02.49.23:219][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:219][196]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.18-02.49.23:219][196]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.03.18-02.49.23:220][196]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.18-02.49.23:220][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:220][196]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.18-02.49.23:220][196]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.03.18-02.49.23:222][196]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.18-02.49.23:222][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:222][196]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.18-02.49.23:222][196]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.03.18-02.49.23:223][196]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.18-02.49.23:223][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:223][196]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.18-02.49.23:224][196]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.03.18-02.49.23:225][196]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.18-02.49.23:225][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:225][196]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.18-02.49.23:225][196]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.03.18-02.49.23:227][196]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.18-02.49.23:227][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:227][196]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.18-02.49.23:227][196]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.03.18-02.49.23:228][196]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.18-02.49.23:228][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:228][196]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.18-02.49.23:228][196]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.03.18-02.49.23:230][196]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.18-02.49.23:230][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:230][196]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.18-02.49.23:230][196]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2022.03.18-02.49.23:231][196]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.18-02.49.23:232][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:232][196]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.18-02.49.23:232][196]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2022.03.18-02.49.23:233][196]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.18-02.49.23:233][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:233][196]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.18-02.49.23:233][196]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2022.03.18-02.49.23:235][196]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.18-02.49.23:235][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:235][196]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.18-02.49.23:235][196]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2022.03.18-02.49.23:237][196]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.18-02.49.23:237][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:237][196]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.18-02.49.23:237][196]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2022.03.18-02.49.23:238][196]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.18-02.49.23:238][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:238][196]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.18-02.49.23:238][196]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2022.03.18-02.49.23:240][196]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.18-02.49.23:240][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:240][196]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.18-02.49.23:240][196]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2022.03.18-02.49.23:241][196]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.03.18-02.49.23:242][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:242][196]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.03.18-02.49.23:242][196]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2022.03.18-02.49.23:243][196]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.18-02.49.23:243][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:243][196]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.18-02.49.23:243][196]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2022.03.18-02.49.23:245][196]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.18-02.49.23:245][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:245][196]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.18-02.49.23:245][196]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2022.03.18-02.49.23:247][196]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.18-02.49.23:247][196]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-02.49.23:247][196]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.18-02.49.23:247][196]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2022.03.18-02.49.23:379][196]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2022.03.18-02.49.23:387][196]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.18-02.49.23:407][196]LogSlate: Took 0.000344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.18-02.49.23:486][197]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.03.18-02.49.23:677][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2022.03.18-02.49.23:677][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2022.03.18-02.49.23:677][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2022.03.18-02.49.23:710][198]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.03.18-02.49.24:299][204]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.03.18-02.49.24:362][205]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.03.18-02.49.28:059][323]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 106
+[2022.03.18-02.49.28:721][354]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 96
+[2022.03.18-02.49.28:935][378]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 86
+[2022.03.18-02.49.32:346][728]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 76
+[2022.03.18-02.49.32:372][729]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 66
+[2022.03.18-02.49.33:108][807]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 56
+[2022.03.18-02.49.35:594][ 77]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 46
+[2022.03.18-02.49.36:686][196]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2022.03.18-02.49.36:741][202]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2022.03.18-02.49.39:476][498]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2022.03.18-02.49.40:127][570]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2022.03.18-02.49.40:522][610]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2022.03.18-02.49.41:577][723]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2022.03.18-02.49.41:674][734]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.03.18-02.49.41:830][750]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2022.03.18-02.49.52:056][522]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame'
+[2022.03.18-02.49.52:056][522]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame'
+[2022.03.18-02.49.52:056][522]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame'
+[2022.03.18-02.49.52:056][522]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame'
+[2022.03.18-02.49.52:056][522]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame'
+[2022.03.18-02.49.52:056][522]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame'
+[2022.03.18-02.49.52:056][522]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame'
+[2022.03.18-02.49.52:056][522]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame'
+[2022.03.18-02.49.52:056][522]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame'
+[2022.03.18-02.49.52:057][522]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame'
+[2022.03.18-02.49.52:057][522]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame'
+[2022.03.18-02.49.52:057][522]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame'
+[2022.03.18-02.49.52:057][522]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame'
+[2022.03.18-02.49.52:057][522]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame'
+[2022.03.18-02.49.52:057][522]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame'
+[2022.03.18-02.49.52:057][522]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame'
+[2022.03.18-02.49.52:057][522]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame'
+[2022.03.18-02.49.52:057][522]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame'
+[2022.03.18-02.49.52:057][522]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame'
+[2022.03.18-02.49.52:057][522]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame'
+[2022.03.18-02.49.52:057][522]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/4team/Documents/Unreal Projects/ArcadeGameTSA 4.27/TSA2022VideoGame'
+[2022.03.18-02.51.16:550][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\ThirdPerson\Meshes\Bump_StaticMesh.uasset: Failed to load '/Game/ThirdPerson/Meshes/RampMaterial': Can't find file.
+[2022.03.18-02.51.16:551][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\ThirdPerson\Meshes\Bump_StaticMesh.uasset: Failed to load '/Game/ThirdPerson/Meshes/RampMaterial': Can't find file.
+[2022.03.18-02.51.16:552][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\ThirdPerson\Meshes\Bump_StaticMesh.uasset: Failed to load '/Game/ThirdPerson/Meshes/RampMaterial': Can't find file.
+[2022.03.18-02.51.16:553][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\ThirdPerson\Meshes\Bump_StaticMesh.uasset: Failed to load '/Game/ThirdPerson/Meshes/RampMaterial': Can't find file.
+[2022.03.18-02.51.16:553][775]LoadErrors: Failed to load /Game/ThirdPerson/Meshes/RampMaterial.RampMaterial Referenced by Bump_StaticMesh
+[2022.03.18-02.51.16:568][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\ThirdPerson\Meshes\LeftArm_StaticMesh.uasset: Failed to load '/Game/ThirdPerson/Meshes/RampMaterial': Can't find file.
+[2022.03.18-02.51.16:568][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\ThirdPerson\Meshes\LeftArm_StaticMesh.uasset: Failed to load '/Game/ThirdPerson/Meshes/RampMaterial': Can't find file.
+[2022.03.18-02.51.16:570][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\ThirdPerson\Meshes\LeftArm_StaticMesh.uasset: Failed to load '/Game/ThirdPerson/Meshes/RampMaterial': Can't find file.
+[2022.03.18-02.51.16:570][775]LoadErrors: Failed to load /Game/ThirdPerson/Meshes/RampMaterial.RampMaterial Referenced by LeftArm_StaticMesh
+[2022.03.18-02.51.16:585][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\ThirdPerson\Meshes\Linear_Stair_StaticMesh.uasset: Failed to load '/Game/ThirdPerson/Meshes/RampMaterial': Can't find file.
+[2022.03.18-02.51.16:586][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\ThirdPerson\Meshes\Linear_Stair_StaticMesh.uasset: Failed to load '/Game/ThirdPerson/Meshes/RampMaterial': Can't find file.
+[2022.03.18-02.51.16:587][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\ThirdPerson\Meshes\Linear_Stair_StaticMesh.uasset: Failed to load '/Game/ThirdPerson/Meshes/RampMaterial': Can't find file.
+[2022.03.18-02.51.16:587][775]LoadErrors: Failed to load /Game/ThirdPerson/Meshes/RampMaterial.RampMaterial Referenced by Linear_Stair_StaticMesh
+[2022.03.18-02.51.16:624][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\ThirdPerson\Meshes\Ramp_StaticMesh.uasset: Failed to load '/Game/ThirdPerson/Meshes/RampMaterial': Can't find file.
+[2022.03.18-02.51.16:625][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\ThirdPerson\Meshes\Ramp_StaticMesh.uasset: Failed to load '/Game/ThirdPerson/Meshes/RampMaterial': Can't find file.
+[2022.03.18-02.51.16:626][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\ThirdPerson\Meshes\Ramp_StaticMesh.uasset: Failed to load '/Game/ThirdPerson/Meshes/RampMaterial': Can't find file.
+[2022.03.18-02.51.16:626][775]LoadErrors: Failed to load /Game/ThirdPerson/Meshes/RampMaterial.RampMaterial Referenced by Ramp_StaticMesh
+[2022.03.18-02.51.16:677][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\ThirdPerson\Meshes\RightArm_StaticMesh.uasset: Failed to load '/Game/ThirdPerson/Meshes/RampMaterial': Can't find file.
+[2022.03.18-02.51.16:678][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\ThirdPerson\Meshes\RightArm_StaticMesh.uasset: Failed to load '/Game/ThirdPerson/Meshes/RampMaterial': Can't find file.
+[2022.03.18-02.51.16:679][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\ThirdPerson\Meshes\RightArm_StaticMesh.uasset: Failed to load '/Game/ThirdPerson/Meshes/RampMaterial': Can't find file.
+[2022.03.18-02.51.16:679][775]LoadErrors: Failed to load /Game/ThirdPerson/Meshes/RampMaterial.RampMaterial Referenced by RightArm_StaticMesh
+[2022.03.18-02.51.17:094][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_Bush.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Bush': Can't find file.
+[2022.03.18-02.51.17:095][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_Bush.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Bush': Can't find file.
+[2022.03.18-02.51.17:096][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_Bush.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Bush': Can't find file.
+[2022.03.18-02.51.17:097][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_Bush.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Bush': Can't find file.
+[2022.03.18-02.51.17:097][775]LoadErrors: Failed to load /Game/StarterContent/Props/Materials/M_Bush.M_Bush Referenced by SM_Bush
+[2022.03.18-02.51.17:228][775]LogStaticMesh: Building static mesh SM_Decor_Accessories_03...
+[2022.03.18-02.51.17:233][775]LogSlate: Took 0.000332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.18-02.51.17:389][775]LogStaticMesh: Built static mesh [0.16s] /Game/Transfer/Props/SM_Decor_Accessories_03.SM_Decor_Accessories_03
+[2022.03.18-02.51.17:422][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Decor_Vase_06.uasset: Failed to load '/Game/Transfer/Materials/MI_Vase01': Can't find file.
+[2022.03.18-02.51.17:424][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Decor_Vase_06.uasset: Failed to load '/Game/Transfer/Materials/MI_Vase01': Can't find file.
+[2022.03.18-02.51.17:425][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Decor_Vase_06.uasset: Failed to load '/Game/Transfer/Materials/MI_Vase01': Can't find file.
+[2022.03.18-02.51.17:426][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Decor_Vase_06.uasset: Failed to load '/Game/Transfer/Materials/MI_Vase01': Can't find file.
+[2022.03.18-02.51.17:427][775]LoadErrors: Failed to load /Game/Transfer/Materials/MI_Vase01.MI_Vase01 Referenced by SM_Decor_Vase_06
+[2022.03.18-02.51.17:428][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Decor_Vase_06.uasset: Failed to load '/Game/Transfer/Materials/MI_Vase01': Can't find file.
+[2022.03.18-02.51.17:428][775]LogStaticMesh: Building static mesh SM_Decor_Vase_06...
+[2022.03.18-02.51.17:545][775]LogStaticMesh: Built static mesh [0.12s] /Game/Transfer/Props/SM_Decor_Vase_06.SM_Decor_Vase_06
+[2022.03.18-02.51.17:574][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_Door.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Door': Can't find file.
+[2022.03.18-02.51.17:576][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_Door.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Door': Can't find file.
+[2022.03.18-02.51.17:576][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_Door.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Door': Can't find file.
+[2022.03.18-02.51.17:578][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_Door.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Door': Can't find file.
+[2022.03.18-02.51.17:578][775]LoadErrors: Failed to load /Game/StarterContent/Props/Materials/M_Door.M_Door Referenced by SM_Door
+[2022.03.18-02.51.17:642][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_FloorLight.uasset: Failed to load '/Game/Transfer/Materials/MI_Emissive_StudioRoof': Can't find file.
+[2022.03.18-02.51.17:643][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_FloorLight.uasset: Failed to load '/Game/Transfer/Materials/MI_Emissive_StudioRoof': Can't find file.
+[2022.03.18-02.51.17:644][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_FloorLight.uasset: Failed to load '/Game/Transfer/Materials/MI_FloorLight_Fabric01': Can't find file.
+[2022.03.18-02.51.17:645][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_FloorLight.uasset: Failed to load '/Game/Transfer/Materials/MI_FloorLight_Fabric01': Can't find file.
+[2022.03.18-02.51.17:646][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_FloorLight.uasset: Failed to load '/Game/Transfer/Materials/MI_FloorLight_Gold': Can't find file.
+[2022.03.18-02.51.17:647][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_FloorLight.uasset: Failed to load '/Game/Transfer/Materials/MI_FloorLight_Gold': Can't find file.
+[2022.03.18-02.51.17:648][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_FloorLight.uasset: Failed to load '/Game/Transfer/Materials/MI_FloorLight_Wood': Can't find file.
+[2022.03.18-02.51.17:649][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_FloorLight.uasset: Failed to load '/Game/Transfer/Materials/MI_FloorLight_Wood': Can't find file.
+[2022.03.18-02.51.17:649][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_FloorLight.uasset: Failed to load '/Game/Transfer/Materials/MI_Emissive_StudioRoof': Can't find file.
+[2022.03.18-02.51.17:650][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_FloorLight.uasset: Failed to load '/Game/Transfer/Materials/MI_FloorLight_Fabric01': Can't find file.
+[2022.03.18-02.51.17:651][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_FloorLight.uasset: Failed to load '/Game/Transfer/Materials/MI_FloorLight_Gold': Can't find file.
+[2022.03.18-02.51.17:651][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_FloorLight.uasset: Failed to load '/Game/Transfer/Materials/MI_FloorLight_Wood': Can't find file.
+[2022.03.18-02.51.17:653][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_FloorLight.uasset: Failed to load '/Game/Transfer/Materials/MI_FloorLight_Wood': Can't find file.
+[2022.03.18-02.51.17:653][775]LoadErrors: Failed to load /Game/Transfer/Materials/MI_FloorLight_Wood.MI_FloorLight_Wood Referenced by SM_FloorLight
+[2022.03.18-02.51.17:654][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_FloorLight.uasset: Failed to load '/Game/Transfer/Materials/MI_FloorLight_Fabric01': Can't find file.
+[2022.03.18-02.51.17:654][775]LoadErrors: Failed to load /Game/Transfer/Materials/MI_FloorLight_Fabric01.MI_FloorLight_Fabric01 Referenced by SM_FloorLight
+[2022.03.18-02.51.17:655][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_FloorLight.uasset: Failed to load '/Game/Transfer/Materials/MI_FloorLight_Gold': Can't find file.
+[2022.03.18-02.51.17:655][775]LoadErrors: Failed to load /Game/Transfer/Materials/MI_FloorLight_Gold.MI_FloorLight_Gold Referenced by SM_FloorLight
+[2022.03.18-02.51.17:656][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_FloorLight.uasset: Failed to load '/Game/Transfer/Materials/MI_Emissive_StudioRoof': Can't find file.
+[2022.03.18-02.51.17:656][775]LoadErrors: Failed to load /Game/Transfer/Materials/MI_Emissive_StudioRoof.MI_Emissive_StudioRoof Referenced by SM_FloorLight
+[2022.03.18-02.51.17:657][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_FloorLight.uasset: Failed to load '/Game/Transfer/Materials/MI_FloorLight_Wood': Can't find file.
+[2022.03.18-02.51.17:658][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_FloorLight.uasset: Failed to load '/Game/Transfer/Materials/MI_FloorLight_Fabric01': Can't find file.
+[2022.03.18-02.51.17:658][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_FloorLight.uasset: Failed to load '/Game/Transfer/Materials/MI_FloorLight_Gold': Can't find file.
+[2022.03.18-02.51.17:659][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_FloorLight.uasset: Failed to load '/Game/Transfer/Materials/MI_Emissive_StudioRoof': Can't find file.
+[2022.03.18-02.51.17:660][775]LogStaticMesh: Building static mesh SM_FloorLight...
+[2022.03.18-02.51.17:784][775]LogStaticMesh: Built static mesh [0.12s] /Game/Transfer/Props/SM_FloorLight.SM_FloorLight
+[2022.03.18-02.51.17:830][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_01.uasset: Failed to load '/Game/Transfer/Materials/M_Opacity': Can't find file.
+[2022.03.18-02.51.17:831][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_01.uasset: Failed to load '/Game/Transfer/Materials/M_Opacity': Can't find file.
+[2022.03.18-02.51.17:832][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_01.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier_White': Can't find file.
+[2022.03.18-02.51.17:833][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_01.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier_White': Can't find file.
+[2022.03.18-02.51.17:833][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_01.uasset: Failed to load '/Game/Transfer/Materials/MI_Emissive_BedRoomChandelier': Can't find file.
+[2022.03.18-02.51.17:834][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_01.uasset: Failed to load '/Game/Transfer/Materials/MI_Emissive_BedRoomChandelier': Can't find file.
+[2022.03.18-02.51.17:835][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_01.uasset: Failed to load '/Game/Transfer/Materials/MI_Silver04': Can't find file.
+[2022.03.18-02.51.17:836][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_01.uasset: Failed to load '/Game/Transfer/Materials/MI_Silver04': Can't find file.
+[2022.03.18-02.51.17:837][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_01.uasset: Failed to load '/Game/Transfer/Materials/M_Opacity': Can't find file.
+[2022.03.18-02.51.17:838][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_01.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier_White': Can't find file.
+[2022.03.18-02.51.17:838][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_01.uasset: Failed to load '/Game/Transfer/Materials/MI_Emissive_BedRoomChandelier': Can't find file.
+[2022.03.18-02.51.17:839][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_01.uasset: Failed to load '/Game/Transfer/Materials/MI_Silver04': Can't find file.
+[2022.03.18-02.51.17:840][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_01.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier_White': Can't find file.
+[2022.03.18-02.51.17:840][775]LoadErrors: Failed to load /Game/Transfer/Materials/MI_Chandelier_White.MI_Chandelier_White Referenced by SM_Light_Chandelier_01
+[2022.03.18-02.51.17:841][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_01.uasset: Failed to load '/Game/Transfer/Materials/MI_Emissive_BedRoomChandelier': Can't find file.
+[2022.03.18-02.51.17:841][775]LoadErrors: Failed to load /Game/Transfer/Materials/MI_Emissive_BedRoomChandelier.MI_Emissive_BedRoomChandelier Referenced by SM_Light_Chandelier_01
+[2022.03.18-02.51.17:842][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_01.uasset: Failed to load '/Game/Transfer/Materials/MI_Silver04': Can't find file.
+[2022.03.18-02.51.17:842][775]LoadErrors: Failed to load /Game/Transfer/Materials/MI_Silver04.MI_Silver04 Referenced by SM_Light_Chandelier_01
+[2022.03.18-02.51.17:843][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_01.uasset: Failed to load '/Game/Transfer/Materials/M_Opacity': Can't find file.
+[2022.03.18-02.51.17:843][775]LoadErrors: Failed to load /Game/Transfer/Materials/M_Opacity.M_Opacity Referenced by SM_Light_Chandelier_01
+[2022.03.18-02.51.17:844][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_01.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier_White': Can't find file.
+[2022.03.18-02.51.17:845][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_01.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier_White': Can't find file.
+[2022.03.18-02.51.17:846][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_01.uasset: Failed to load '/Game/Transfer/Materials/MI_Emissive_BedRoomChandelier': Can't find file.
+[2022.03.18-02.51.17:846][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_01.uasset: Failed to load '/Game/Transfer/Materials/MI_Silver04': Can't find file.
+[2022.03.18-02.51.17:847][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_01.uasset: Failed to load '/Game/Transfer/Materials/M_Opacity': Can't find file.
+[2022.03.18-02.51.17:848][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_01.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier_White': Can't find file.
+[2022.03.18-02.51.17:848][775]LogStaticMesh: Building static mesh SM_Light_Chandelier_01...
+[2022.03.18-02.51.18:779][775]LogStaticMesh: Built static mesh [0.93s] /Game/Transfer/Props/SM_Light_Chandelier_01.SM_Light_Chandelier_01
+[2022.03.18-02.51.18:961][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_02.uasset: Failed to load '/Game/Transfer/Materials/M_Opacity': Can't find file.
+[2022.03.18-02.51.18:962][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_02.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier_White': Can't find file.
+[2022.03.18-02.51.18:963][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_02.uasset: Failed to load '/Game/Transfer/Materials/MI_Emissive_BedRoomChandelier': Can't find file.
+[2022.03.18-02.51.18:964][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_02.uasset: Failed to load '/Game/Transfer/Materials/MI_Silver04': Can't find file.
+[2022.03.18-02.51.18:965][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_02.uasset: Failed to load '/Game/Transfer/Materials/M_Opacity': Can't find file.
+[2022.03.18-02.51.18:965][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_02.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier_White': Can't find file.
+[2022.03.18-02.51.18:966][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_02.uasset: Failed to load '/Game/Transfer/Materials/MI_Emissive_BedRoomChandelier': Can't find file.
+[2022.03.18-02.51.18:967][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_02.uasset: Failed to load '/Game/Transfer/Materials/MI_Silver04': Can't find file.
+[2022.03.18-02.51.18:968][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_02.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier_White': Can't find file.
+[2022.03.18-02.51.18:969][775]LoadErrors: Failed to load /Game/Transfer/Materials/MI_Chandelier_White.MI_Chandelier_White Referenced by SM_Light_Chandelier_02
+[2022.03.18-02.51.18:969][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_02.uasset: Failed to load '/Game/Transfer/Materials/MI_Emissive_BedRoomChandelier': Can't find file.
+[2022.03.18-02.51.18:969][775]LoadErrors: Failed to load /Game/Transfer/Materials/MI_Emissive_BedRoomChandelier.MI_Emissive_BedRoomChandelier Referenced by SM_Light_Chandelier_02
+[2022.03.18-02.51.18:970][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_02.uasset: Failed to load '/Game/Transfer/Materials/MI_Silver04': Can't find file.
+[2022.03.18-02.51.18:970][775]LoadErrors: Failed to load /Game/Transfer/Materials/MI_Silver04.MI_Silver04 Referenced by SM_Light_Chandelier_02
+[2022.03.18-02.51.18:971][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_02.uasset: Failed to load '/Game/Transfer/Materials/M_Opacity': Can't find file.
+[2022.03.18-02.51.18:971][775]LoadErrors: Failed to load /Game/Transfer/Materials/M_Opacity.M_Opacity Referenced by SM_Light_Chandelier_02
+[2022.03.18-02.51.18:972][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_02.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier_White': Can't find file.
+[2022.03.18-02.51.18:973][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_02.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier_White': Can't find file.
+[2022.03.18-02.51.18:974][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_02.uasset: Failed to load '/Game/Transfer/Materials/MI_Emissive_BedRoomChandelier': Can't find file.
+[2022.03.18-02.51.18:975][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_02.uasset: Failed to load '/Game/Transfer/Materials/MI_Silver04': Can't find file.
+[2022.03.18-02.51.18:976][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_02.uasset: Failed to load '/Game/Transfer/Materials/M_Opacity': Can't find file.
+[2022.03.18-02.51.18:977][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_02.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier_White': Can't find file.
+[2022.03.18-02.51.18:977][775]LogStaticMesh: Building static mesh SM_Light_Chandelier_02...
+[2022.03.18-02.51.19:899][775]LogStaticMesh: Built static mesh [0.92s] /Game/Transfer/Props/SM_Light_Chandelier_02.SM_Light_Chandelier_02
+[2022.03.18-02.51.20:074][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_03.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier01_A': Can't find file.
+[2022.03.18-02.51.20:075][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_03.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier01_A': Can't find file.
+[2022.03.18-02.51.20:076][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_03.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier01_B': Can't find file.
+[2022.03.18-02.51.20:077][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_03.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier01_B': Can't find file.
+[2022.03.18-02.51.20:078][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_03.uasset: Failed to load '/Game/Transfer/Materials/MI_Emissive_RestRoomLight': Can't find file.
+[2022.03.18-02.51.20:079][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_03.uasset: Failed to load '/Game/Transfer/Materials/MI_Emissive_RestRoomLight': Can't find file.
+[2022.03.18-02.51.20:079][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_03.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier01_A': Can't find file.
+[2022.03.18-02.51.20:080][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_03.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier01_B': Can't find file.
+[2022.03.18-02.51.20:081][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_03.uasset: Failed to load '/Game/Transfer/Materials/MI_Emissive_RestRoomLight': Can't find file.
+[2022.03.18-02.51.20:082][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_03.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier01_B': Can't find file.
+[2022.03.18-02.51.20:082][775]LoadErrors: Failed to load /Game/Transfer/Materials/MI_Chandelier01_B.MI_Chandelier01_B Referenced by SM_Light_Chandelier_03
+[2022.03.18-02.51.20:083][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_03.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier01_B': Can't find file.
+[2022.03.18-02.51.20:084][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_03.uasset: Failed to load '/Game/Transfer/Materials/MI_Emissive_RestRoomLight': Can't find file.
+[2022.03.18-02.51.20:084][775]LoadErrors: Failed to load /Game/Transfer/Materials/MI_Emissive_RestRoomLight.MI_Emissive_RestRoomLight Referenced by SM_Light_Chandelier_03
+[2022.03.18-02.51.20:085][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_03.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier01_A': Can't find file.
+[2022.03.18-02.51.20:085][775]LoadErrors: Failed to load /Game/Transfer/Materials/MI_Chandelier01_A.MI_Chandelier01_A Referenced by SM_Light_Chandelier_03
+[2022.03.18-02.51.20:086][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_03.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier01_B': Can't find file.
+[2022.03.18-02.51.20:087][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_03.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier01_B': Can't find file.
+[2022.03.18-02.51.20:088][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_03.uasset: Failed to load '/Game/Transfer/Materials/MI_Emissive_RestRoomLight': Can't find file.
+[2022.03.18-02.51.20:089][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Light_Chandelier_03.uasset: Failed to load '/Game/Transfer/Materials/MI_Chandelier01_A': Can't find file.
+[2022.03.18-02.51.20:089][775]LogStaticMesh: Building static mesh SM_Light_Chandelier_03...
+[2022.03.18-02.51.20:697][775]LogStaticMesh: Built static mesh [0.61s] /Game/Transfer/Props/SM_Light_Chandelier_03.SM_Light_Chandelier_03
+[2022.03.18-02.51.20:836][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_MatPreviewMesh_02.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_MaterialSphere': Can't find file.
+[2022.03.18-02.51.20:837][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_MatPreviewMesh_02.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_MaterialSphere': Can't find file.
+[2022.03.18-02.51.20:838][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_MatPreviewMesh_02.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_MaterialSphere_Plain': Can't find file.
+[2022.03.18-02.51.20:839][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_MatPreviewMesh_02.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_MaterialSphere_Plain': Can't find file.
+[2022.03.18-02.51.20:840][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_MatPreviewMesh_02.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_MaterialSphere': Can't find file.
+[2022.03.18-02.51.20:840][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_MatPreviewMesh_02.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_MaterialSphere_Plain': Can't find file.
+[2022.03.18-02.51.20:842][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_MatPreviewMesh_02.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_MaterialSphere_Plain': Can't find file.
+[2022.03.18-02.51.20:842][775]LoadErrors: Failed to load /Game/StarterContent/Props/Materials/M_MaterialSphere_Plain.M_MaterialSphere_Plain Referenced by SM_MatPreviewMesh_02
+[2022.03.18-02.51.20:843][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_MatPreviewMesh_02.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_MaterialSphere': Can't find file.
+[2022.03.18-02.51.20:843][775]LoadErrors: Failed to load /Game/StarterContent/Props/Materials/M_MaterialSphere.M_MaterialSphere Referenced by SM_MatPreviewMesh_02
+[2022.03.18-02.51.21:094][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_Rock.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Rock': Can't find file.
+[2022.03.18-02.51.21:095][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_Rock.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Rock': Can't find file.
+[2022.03.18-02.51.21:096][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_Rock.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Rock': Can't find file.
+[2022.03.18-02.51.21:097][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_Rock.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Rock': Can't find file.
+[2022.03.18-02.51.21:097][775]LoadErrors: Failed to load /Game/StarterContent/Props/Materials/M_Rock.M_Rock Referenced by SM_Rock
+[2022.03.18-02.51.21:138][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_Shelf.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Shelf': Can't find file.
+[2022.03.18-02.51.21:139][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_Shelf.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Shelf': Can't find file.
+[2022.03.18-02.51.21:140][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_Shelf.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Shelf': Can't find file.
+[2022.03.18-02.51.21:141][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\StarterContent\Props\SM_Shelf.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Shelf': Can't find file.
+[2022.03.18-02.51.21:141][775]LoadErrors: Failed to load /Game/StarterContent/Props/Materials/M_Shelf.M_Shelf Referenced by SM_Shelf
+[2022.03.18-02.51.21:164][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Sofa_04.uasset: Failed to load '/Game/Transfer/Materials/MI_Sofa04_A': Can't find file.
+[2022.03.18-02.51.21:165][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Sofa_04.uasset: Failed to load '/Game/Transfer/Materials/MI_Sofa04_A': Can't find file.
+[2022.03.18-02.51.21:166][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Sofa_04.uasset: Failed to load '/Game/Transfer/Materials/MI_Sofa04_A': Can't find file.
+[2022.03.18-02.51.21:167][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Sofa_04.uasset: Failed to load '/Game/Transfer/Materials/MI_Sofa04_A': Can't find file.
+[2022.03.18-02.51.21:167][775]LoadErrors: Failed to load /Game/Transfer/Materials/MI_Sofa04_A.MI_Sofa04_A Referenced by SM_Sofa_04
+[2022.03.18-02.51.21:168][775]LogLinker: Warning: [AssetLog] C:\Users\4team\Documents\Unreal Projects\ArcadeGameTSA 4.27\TSA2022VideoGame\stupidtsagame\Content\Transfer\Props\SM_Sofa_04.uasset: Failed to load '/Game/Transfer/Materials/MI_Sofa04_A': Can't find file.
+[2022.03.18-02.51.21:318][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.03.18-02.51.26:581][775]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.18-02.51.27:483][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.03.18-02.51.27:503][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.51.27:515][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.51.27:527][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.51.27:539][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.51.27:551][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.51.27:563][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.51.27:575][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.51.27:586][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.51.27:598][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.51.27:610][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.51.27:622][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.51.27:633][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.51.27:645][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.51.27:657][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.03.18-02.51.27:668][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.51.27:685][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.03.18-02.51.27:698][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.51.27:711][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.51.27:722][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.51.27:735][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.51.27:748][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.51.27:760][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.51.27:772][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.51.27:784][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.51.27:796][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.51.27:808][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.51.27:820][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.51.27:832][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.51.27:844][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.51.27:855][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.51.27:866][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.51.27:878][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.51.27:892][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.51.27:904][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.03.18-02.51.27:916][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.03.18-02.51.27:928][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.51.27:940][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.51.27:952][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.03.18-02.51.27:964][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.51.27:976][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.51.27:987][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.51.27:999][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.51.28:029][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.03.18-02.51.28:041][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.51.28:957][775]SourceControl: Error: Updated 0 paths from the index
+[2022.03.18-02.51.29:641][775]SourceControl: Error: warning: could not open directory 'stupidtsagame/Content/ThirdPerson/': No such file or directory
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Architecture/Pillar_50x500.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Architecture/Wall_400x300.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Architecture/Wall_400x400.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Architecture/Wall_500x500.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Architecture/Wall_Door_400x400.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Architecture/Wall_Window_400x400.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Props/SM_Bush.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Props/SM_Couch.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Props/SM_Door.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Props/SM_Rock.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Props/SM_Shelf.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Props/SM_Stairs.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Shapes/Shape_Cone.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Shapes/Shape_Cylinder.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Shapes/Shape_Pipe.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Shapes/Shape_Pipe_180.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Shapes/Shape_Pipe_90.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Shapes/Shape_Plane.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Shapes/Shape_Torus.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Shapes/Shape_TriPyramid.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Shapes/Shape_Trim.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Shapes/Shape_Tube.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Shapes/Shape_Wedge_A.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Shapes/Shape_Wedge_B.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/StarterContent/Shapes/Shape_WideCapsule.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset'
+[2022.03.18-02.51.29:641][775]SourceControl: rm 'stupidtsagame/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset'
+[2022.03.18-02.51.29:642][775]SourceControl: rm 'stupidtsagame/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset'
+[2022.03.18-02.51.29:642][775]SourceControl: rm 'stupidtsagame/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset'
+[2022.03.18-02.51.29:642][775]SourceControl: rm 'stupidtsagame/Content/Transfer/Props/SM_Decor_Accessories_03.uasset'
+[2022.03.18-02.51.29:642][775]SourceControl: rm 'stupidtsagame/Content/Transfer/Props/SM_Decor_Vase_06.uasset'
+[2022.03.18-02.51.29:642][775]SourceControl: rm 'stupidtsagame/Content/Transfer/Props/SM_FloorLight.uasset'
+[2022.03.18-02.51.29:642][775]SourceControl: rm 'stupidtsagame/Content/Transfer/Props/SM_Light_Chandelier_01.uasset'
+[2022.03.18-02.51.29:642][775]SourceControl: rm 'stupidtsagame/Content/Transfer/Props/SM_Light_Chandelier_02.uasset'
+[2022.03.18-02.51.29:642][775]SourceControl: rm 'stupidtsagame/Content/Transfer/Props/SM_Light_Chandelier_03.uasset'
+[2022.03.18-02.51.29:642][775]SourceControl: rm 'stupidtsagame/Content/Transfer/Props/SM_Sofa_04.uasset'
+[2022.03.18-02.53.34:000][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.03.18-02.53.35:735][534]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.18-02.53.35:755][534]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/StarterContent/Audio/Explosion01.Explosion01
+[2022.03.18-02.53.40:851][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.03.18-02.53.40:866][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.53.40:878][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.53.41:210][534]SourceControl: Error: Updated 0 paths from the index
+[2022.03.18-02.53.41:386][534]SourceControl: rm 'stupidtsagame/Content/StarterContent/Audio/Explosion01.uasset'
+[2022.03.18-02.53.45:056][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.03.18-02.53.46:619][892]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.18-02.53.46:649][892]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/StarterContent/Audio/Explosion02.Explosion02
+[2022.03.18-02.53.47:074][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.53.47:087][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.53.47:098][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.53.47:496][892]SourceControl: Error: Updated 0 paths from the index
+[2022.03.18-02.53.47:750][892]SourceControl: rm 'stupidtsagame/Content/StarterContent/Audio/Explosion02.uasset'
+[2022.03.18-02.53.50:216][145]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Explosion01': Can't find file.
+[2022.03.18-02.53.50:216][145]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Explosion01': Can't find file.
+[2022.03.18-02.53.50:217][145]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Explosion01.Explosion01'
+[2022.03.18-02.53.50:217][145]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Explosion02': Can't find file.
+[2022.03.18-02.53.50:217][145]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Explosion02': Can't find file.
+[2022.03.18-02.53.50:218][145]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Explosion02.Explosion02'
+[2022.03.18-02.53.50:232][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.03.18-02.53.51:446][145]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.18-02.53.51:458][145]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/StarterContent/Audio/Explosion_Cue.Explosion_Cue
+[2022.03.18-02.53.51:892][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.53.51:904][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.53.51:916][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.53.52:310][145]SourceControl: Error: Updated 0 paths from the index
+[2022.03.18-02.53.52:578][145]SourceControl: rm 'stupidtsagame/Content/StarterContent/Audio/Explosion_Cue.uasset'
+[2022.03.18-02.53.55:106][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.53.56:601][397]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.18-02.53.56:635][397]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/StarterContent/Audio/Light01.Light01
+[2022.03.18-02.53.57:040][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.18-02.53.57:052][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.53.57:064][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.18-02.53.57:203][397]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2022.03.18-02.54.06:889][397]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.03.18-02.54.06:889][397]SourceControl: Error: Updated 0 paths from the index
+[2022.03.18-02.54.07:250][397]SourceControl: rm 'stupidtsagame/Content/StarterContent/Audio/Light01.uasset'
+[2022.03.18-02.54.10:022][450]LogThreadingWindows: Error: Runnable thread AudioMixerRenderThread(1) crashed.
+[2022.03.18-02.54.10:022][450]LogWindows: Error: === Critical error: ===
+[2022.03.18-02.54.10:022][450]LogWindows: Error: 
+[2022.03.18-02.54.10:022][450]LogWindows: Error: Assertion failed: InDecoder != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/AudioMixer/Private/AudioMixerSourceBuffer.cpp] [Line: 370] 
+[2022.03.18-02.54.10:022][450]LogWindows: Error: 
+[2022.03.18-02.54.10:022][450]LogWindows: Error: 
+[2022.03.18-02.54.10:022][450]LogWindows: Error: 
+[2022.03.18-02.54.10:022][450]LogWindows: Error: [Callstack] 0x00007ffb73394f69 KERNELBASE.dll!UnknownFunction []
+[2022.03.18-02.54.10:022][450]LogWindows: Error: [Callstack] 0x00007ffb148cd066 UE4Editor-Core.dll!UnknownFunction []
+[2022.03.18-02.54.10:022][450]LogWindows: Error: [Callstack] 0x00007ffb148d07a8 UE4Editor-Core.dll!UnknownFunction []
+[2022.03.18-02.54.10:022][450]LogWindows: Error: [Callstack] 0x00007ffb145de8cd UE4Editor-Core.dll!UnknownFunction []
+[2022.03.18-02.54.10:022][450]LogWindows: Error: [Callstack] 0x00007ffb14575575 UE4Editor-Core.dll!UnknownFunction []
+[2022.03.18-02.54.10:022][450]LogWindows: Error: [Callstack] 0x00007ffb14577620 UE4Editor-Core.dll!UnknownFunction []
+[2022.03.18-02.54.10:022][450]LogWindows: Error: [Callstack] 0x00007ffb3bc57dfd UE4Editor-AudioMixer.dll!UnknownFunction []
+[2022.03.18-02.54.10:023][450]LogWindows: Error: [Callstack] 0x00007ffb3bc56222 UE4Editor-AudioMixer.dll!UnknownFunction []
+[2022.03.18-02.54.10:023][450]LogWindows: Error: [Callstack] 0x00007ffb3bc4f41b UE4Editor-AudioMixer.dll!UnknownFunction []
+[2022.03.18-02.54.10:023][450]LogWindows: Error: [Callstack] 0x00007ffb3bc58472 UE4Editor-AudioMixer.dll!UnknownFunction []
+[2022.03.18-02.54.10:023][450]LogWindows: Error: [Callstack] 0x00007ffb3bc2b99a UE4Editor-AudioMixer.dll!UnknownFunction []
+[2022.03.18-02.54.10:023][450]LogWindows: Error: [Callstack] 0x00007ffb3bc3711f UE4Editor-AudioMixer.dll!UnknownFunction []
+[2022.03.18-02.54.10:023][450]LogWindows: Error: [Callstack] 0x00007ffb3bc297d2 UE4Editor-AudioMixer.dll!UnknownFunction []
+[2022.03.18-02.54.10:023][450]LogWindows: Error: [Callstack] 0x00007ffb3bc517dd UE4Editor-AudioMixer.dll!UnknownFunction []
+[2022.03.18-02.54.10:023][450]LogWindows: Error: [Callstack] 0x00007ffb1ef44edd UE4Editor-AudioMixerCore.dll!UnknownFunction []
+[2022.03.18-02.54.10:023][450]LogWindows: Error: [Callstack] 0x00007ffb1ef46878 UE4Editor-AudioMixerCore.dll!UnknownFunction []
+[2022.03.18-02.54.10:023][450]LogWindows: Error: [Callstack] 0x00007ffb1ef4677d UE4Editor-AudioMixerCore.dll!UnknownFunction []
+[2022.03.18-02.54.10:023][450]LogWindows: Error: [Callstack] 0x00007ffb148e898b UE4Editor-Core.dll!UnknownFunction []
+[2022.03.18-02.54.10:023][450]LogWindows: Error: [Callstack] 0x00007ffb148e1620 UE4Editor-Core.dll!UnknownFunction []
+[2022.03.18-02.54.10:023][450]LogWindows: Error: [Callstack] 0x00007ffb74167034 KERNEL32.DLL!UnknownFunction []
+[2022.03.18-02.54.10:023][450]LogWindows: Error: [Callstack] 0x00007ffb75a62651 ntdll.dll!UnknownFunction []
+[2022.03.18-02.54.10:023][450]LogWindows: Error: 
+[2022.03.18-02.54.10:023][450]LogWindows: Error: Crash in runnable thread AudioMixerRenderThread(1)
+[2022.03.18-02.54.10:074][450]LogExit: Executing StaticShutdownAfterError
+[2022.03.18-02.54.10:074][450]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.03.18-02.54.10:074][450]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.03.18-02.54.10:107][450]Log file closed, 03/17/22 21:54:10
